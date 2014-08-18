@@ -1,0 +1,30 @@
+
+body {
+    background-color: #EBEBEB;
+    padding: 3px;
+    text-align: left;
+    vertical-align: top;
+}
+
+
+#item-list-container{
+    background-color: #F8F9F8;
+    border: 1px solid #a9a9a9;
+    padding: 40px;
+    text-align: left;
+    vertical-align: top;
+}
+
+li.item-title {
+    list-style: none;
+}
+.item-title a {
+    font-weight: bold;
+}
+
+.item-body {
+    border-bottom: 1px dashed #D0AEA7;
+    margin-top: 5px;
+    margin-bottom: 12px;
+    padding-bottom: 5px;
+}
