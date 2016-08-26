@@ -1,6 +1,7 @@
 <?php
+include 'config.php';
 // Create connection
-$con=mysqli_connect("localhost","admin", "password");
+
 
 
 // Check connection 
