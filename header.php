@@ -14,5 +14,6 @@ echo '
 
 include('connectdb.php');
 
+include 'navigation.php';
 
 ?>
