@@ -28,3 +28,12 @@ li.item-title {
     margin-bottom: 12px;
     padding-bottom: 5px;
 }
+
+#item-list-container {
+    margin-top: 1em;
+}
+
+
+section#main-content {
+    margin-top: 1em;
+}
