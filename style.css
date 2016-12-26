@@ -29,11 +29,16 @@ li.item-title {
     padding-bottom: 5px;
 }
 
+
+nav.top-bar {
+    margin-bottom: 20px;
+}
+
 #item-list-container {
-    margin-top: 1em;
+    margin-top: 10px;
 }
 
 
 section#main-content {
-    margin-top: 1em;
+    margin-top: 10px;
 }
