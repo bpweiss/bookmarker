@@ -1,6 +1,7 @@
 <?php
 include 'config.php';
 // Create connection
+$con=mysqli_connect($mySqlHost,$mySqlUserName,$mySqlPassword);
 
 
 
@@ -13,7 +14,7 @@ if (mysqli_connect_errno())
 // close connection mysqli_close($con);
 
 // Create database
-$sql="CREATE DATABASE bkmkmgr";
+$sql="CREATE DATABASE bkmkmgrone";
 if (mysqli_query($con,$sql))
 	{
 	echo "Database bkmkmgr created successfully";
